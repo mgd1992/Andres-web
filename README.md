@@ -1,2 +1,2 @@
 # Andres-web
-Basic portfolio
+Basic portfolio for a personal trainer web
